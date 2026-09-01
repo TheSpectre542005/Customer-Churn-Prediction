@@ -20,3 +20,8 @@ env/
 # OS
 .DS_Store
 Thumbs.db
+
+# Generated notebook output images (not used by the app)
+churn_eda.png
+shap_global.png
+shap_detailed.png
