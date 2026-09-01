@@ -44,8 +44,8 @@ A production-grade machine learning application that predicts customer churn for
 ## Run Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/churnguard.git
-cd churnguard
+git clone https://github.com/TheSpectre542005/Customer-Churn-Prediction.git
+cd Customer-Churn-Prediction
 pip install -r requirements.txt
 streamlit run app.py
 ```
