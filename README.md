@@ -1,8 +1,10 @@
 # ChurnGuard 🛡️ — Customer Retention Intelligence Platform
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://customer-churn-prediction-gemzjcnzqmxrfbux39mfx2.streamlit.app/)
+
 A production-grade machine learning application that predicts customer churn for a telecom company and provides actionable retention recommendations.
 
-**[Live Demo →](https://your-app-name.streamlit.app)**
+**[🚀 Live Demo →](https://customer-churn-prediction-gemzjcnzqmxrfbux39mfx2.streamlit.app/)**
 
 ---
 
